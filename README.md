@@ -10,7 +10,6 @@ Welcome to my public repository focused on security engineering, automation, clo
 - Linux and networking practice
 - DevSecOps experiments and notes
 - Container and CI/CD security resources
-- Writeups, learning notes and practical labs
 
 ## Goals
 
